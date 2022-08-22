@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.span-colour {
+    color: orange;
+}
+
+.first-part {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    width: 85%;
+    padding-left: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: red;
+
+    background-image: linear-gradient(to right, red, yellow);
+    border: 2px solid salmon;
+    border-radius: 5px;
+}
